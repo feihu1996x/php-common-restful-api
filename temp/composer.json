@@ -1,0 +1,12 @@
+{
+	"require" : {
+		"php-curl-class/php-curl-class": "7.3.0",
+		"nette/mail": "^2.4",
+		"pingplusplus/pingpp-php": "^2.2",
+		"curl/curl": "^1.6",
+		"predis/predis": "^1.1"
+	},
+	"require-dev": {
+		"phpdocumentor/phpdocumentor": "dev-master"
+	}
+}
